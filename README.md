@@ -1,4 +1,4 @@
-# Nimble Hack Day Project - 27th 30th Oct 2020
+# Mobile Application
 
 ![Initial Launch Screen](/docs/images/initialScreen.png)
 
